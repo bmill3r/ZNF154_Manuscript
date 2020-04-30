@@ -4,7 +4,7 @@ Code to reproduce manuscript figures
 Note that the input files are too large to host here. Please contact on obtaining the input files if you would like to rerun yourself.
 
 The directory structure is as follows:
-
+```
 .
 ├── Figures.ipynb
 ├── methylationArrayData
@@ -134,4 +134,4 @@ The directory structure is as follows:
     ├── pancreasEarlyNormalizedMethylatedZNFCounts.csv
     └── pancreasLateNormalizedMethylatedZNFCounts.csv
 
-
+```
