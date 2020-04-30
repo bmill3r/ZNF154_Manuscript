@@ -37,93 +37,49 @@ The directory structure is as follows:
 │       └── GSE55763_series_matrix.txt
 ├── mutationFreqs
 │   ├── BLCA
-│   │   ├── BLCA_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── BLCA_top_mutations_vs_95controls_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_BLCA.Mutation_Packager_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_BLCA.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_BLCA.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── BRCA
-│   │   ├── BRCA_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── BRCA_top_2_mutations_vs_ZNF_classification-10perc.png
-│   │   ├── BRCA_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── BRCA_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_BRCA.Mutation_Packager_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_BRCA.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_BRCA.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── HNSC
-│   │   ├── HNSC_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── HNSC_top_mutations_vs_95controls_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_HNSC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_HNSC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_HNSC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── KIRC
-│   │   ├── KIRC_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── KIRC_top_mutations_vs_95controls_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_KIRC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_KIRC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_KIRC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── KIRP
-│   │   ├── KIRP_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── KIRP_top_2_mutations_vs_ZNF_classification.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_KIRP.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_KIRP.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_KIRP.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── LIHC
-│   │   ├── LIHC_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── LIHC_top_2_mutations_vs_ZNF_classification-10perc.png
-│   │   ├── LIHC_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── LIHC_top_3_mutations_vs_ZNF_classification-10perc.png
-│   │   ├── LIHC_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_LIHC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_LIHC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_LIHC.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── LUAD
-│   │   ├── LUAD_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── LUAD_top_2_mutations_vs_ZNF_classification-10perc.png
-│   │   ├── LUAD_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── LUAD_top_5_mutations_vs_ZNF_classification-10perc.png
-│   │   ├── LUAD_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── Mutated_Genes.txt
 │   │   ├── gdac.broadinstitute.org_LUAD.Mutation_Packager_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_LUAD.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_LUAD.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── OV
 │   │   ├── Mutated_Genes.txt
-│   │   ├── OV_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── OV_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── OV_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── gdac.broadinstitute.org_OV.Mutation_Packager_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_OV.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_OV.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── PAAD
 │   │   ├── Mutated_Genes.txt
-│   │   ├── PAAD_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── PAAD_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── PAAD_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── gdac.broadinstitute.org_PAAD.Mutation_Packager_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_PAAD.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_PAAD.Mutation_Packager_Calls.Level_3.2016012800.0.0.tar.gz
 │   ├── PRAD
 │   │   ├── Mutated_Genes.txt
-│   │   ├── PRAD_top_2_mutations_vs_95controls_ZNF_classification.png
-│   │   ├── PRAD_top_2_mutations_vs_ZNF_classification.png
-│   │   ├── PRAD_top_mutations_vs_ZNF_classification-10perc.png
 │   │   ├── gdac.broadinstitute.org_PRAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│   │   ├── gdac.broadinstitute.org_PRAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│   │   └── sample_top_mutations_nonSilentSNPS.csv
+│   │   └── gdac.broadinstitute.org_PRAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 │   └── STAD
 │       ├── Mutated_Genes.txt
-│       ├── STAD_top_2_mutations_vs_95controls_ZNF_classification.png
-│       ├── STAD_top_mutations_vs_95controls_ZNF_classification-10perc.png
 │       ├── gdac.broadinstitute.org_STAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0
-│       ├── gdac.broadinstitute.org_STAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
-│       └── sample_top_mutations_nonSilentSNPS.csv
+│       └── gdac.broadinstitute.org_STAD.Mutation_Packager_Raw_Calls.Level_3.2016012800.0.0.tar.gz
 └── plasma
     ├── DREAMingNormalizedCounts.csv
     ├── KRASddPCRcounts.csv
